@@ -12,7 +12,7 @@ Ein einfacher, moderner QR-Code Generator zum lokalen Einsatz im Browser. Kein S
 
 ## 🖥️ Live-Demo
 
-> *`https://fambosyt.github.io/qr-code-generator`)*
+> *`https://fambosyt.github.io/qr-code-generator`*
 
 ## 🚀 Nutzung
 
