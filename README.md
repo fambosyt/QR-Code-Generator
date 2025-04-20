@@ -18,5 +18,5 @@ Ein einfacher, moderner QR-Code Generator zum lokalen Einsatz im Browser. Kein S
 
 1. Klone das Repository:
    ```bash
-   git clone https://github.com/deinname/qr-code-generator.git
+   git clone https://github.com/fambosyt/qr-code-generator.git
    cd qr-code-generator
