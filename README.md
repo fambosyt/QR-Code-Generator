@@ -10,9 +10,9 @@ Ein einfacher, moderner QR-Code Generator zum lokalen Einsatz im Browser. Kein S
 - Dark Mode 🌙 / Light Mode ☀️
 - Responsives, sauberes Design
 
-## 🖥️ Live-Demo
+## 🌍 Live-Version
 
-> *`https://fambosyt.github.io/qr-code-generator`*
+👉 [https://qrcode-generator.fambosyt.eu/](https://qrcode-generator.fambosyt.eu/)
 
 ## 🚀 Nutzung
 
